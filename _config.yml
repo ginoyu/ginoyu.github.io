@@ -1,1 +1,3 @@
-baseurl: /
+safe: true
+lsi: false
+source: /
