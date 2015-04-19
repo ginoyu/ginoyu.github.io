@@ -5,7 +5,7 @@ author: gino
 email: gino0605@126.com
 description: "gino's blog." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "computer, code, programmer"
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.ginosun.com" # the base hostname & protocol for your site
 locale: cn
 
