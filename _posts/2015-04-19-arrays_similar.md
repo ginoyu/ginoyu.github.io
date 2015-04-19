@@ -21,7 +21,7 @@ tags:
 当以上全部满足，则返回"判定结果:通过"，否则返回"判定结果:不通过"。
 
 代码实现：
-	```java
+
 	/*
 	* param1 Array
 	* param2 Array
@@ -69,4 +69,4 @@ tags:
     }
     return true;
     */
-	```
+
